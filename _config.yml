@@ -1,14 +1,14 @@
-layout_spectrum: 0.9672088155057281
-typography_spectrum: 0.5339345610700548
+layout_spectrum: 0.5693224999122322
+typography_spectrum: 0.05602634139358997
 color:
-  brandStrength: 0.8488792993593961
-  lightness: 0.39836098114028573
-  saturation: 0.4109674687497318
-  rhythmicContrast: 0.8079323447309434
+  brandStrength: 0.6686910074204206
+  lightness: 0.5883599962107837
+  saturation: 0.10542202834039927
+  rhythmicContrast: 0.6629665265791118
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#FFFFFF'
+    - '#000000'
+    - '#66744B'
+    - '#BFBFBF'
+    - '#414141'
 name: RawAsNature
